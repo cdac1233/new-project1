@@ -7,9 +7,14 @@
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h3>This is heading 3</h3>
 =======
 >>>>>>> dev1
+=======
+
+<h3>This is heading 3</h3>
+>>>>>>> c5aa58c7e21b254589c82c50d0d80cc53a1b231a
 
 
 </body>
